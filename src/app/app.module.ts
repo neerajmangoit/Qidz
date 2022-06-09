@@ -15,6 +15,14 @@ import { CarouselBComponent } from './carousel/carousel-b/carousel-b.component';
 import { CarouselCComponent } from './carousel/carousel-c/carousel-c.component';
 import { CarouselDComponent } from './carousel/carousel-d/carousel-d.component';
 import { CarouselCategoryComponent } from './carousel/carousel-category/carousel-category.component';
+import { BreadcrumbComponent } from './events/breadcrumb/breadcrumb.component';
+import { TopBarComponent } from './events/top-bar/top-bar.component';
+import { TermConditionComponent } from './events/term-condition/term-condition.component';
+import { ActivityComponent } from './events/activity/activity.component';
+import { ActivityDescriptionComponent } from './events/activity-description/activity-description.component';
+import { ReviewComponent } from './events/review/review.component';
+import { ScheduleComponent } from './events/schedule/schedule.component';
+import { SideBarComponent } from './events/side-bar/side-bar.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +37,15 @@ import { CarouselCategoryComponent } from './carousel/carousel-category/carousel
     CarouselBComponent,
     CarouselCComponent,
     CarouselDComponent,
-    CarouselCategoryComponent
+    CarouselCategoryComponent,
+    BreadcrumbComponent,
+    TopBarComponent,
+    TermConditionComponent,
+    ActivityComponent,
+    ActivityDescriptionComponent,
+    ReviewComponent,
+    ScheduleComponent,
+    SideBarComponent
   ],
   imports: [
     BrowserModule,

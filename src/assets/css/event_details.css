@@ -123,7 +123,7 @@ span.eve_location {
 .read_more_content a:before {
     content: '';
     position: absolute;
-    background: url() no-repeat;
+    background: url(../assets/img/event-dt/read_ic.png) no-repeat;
     width: 16px;
     height: 20px;
     left: 0;
@@ -170,7 +170,7 @@ span.dis_sub_text {
     width: 18px;
     height: 18px;
     left: 0;
-    background: url() no-repeat;
+    background: url(../assets/img/event-dt/watch_ic.png) no-repeat;
     margin-top: 4px;
 }
 .event_price {
@@ -209,7 +209,7 @@ span.main_price {
 .widget_first h3:before {
     content: '';
     position: absolute;
-    background: url() no-repeat;
+    background: url(../assets/img/event-dt/act_ic.png) no-repeat;
     width: 30px;
     height: 30px;
     left: 0;
@@ -218,7 +218,7 @@ span.main_price {
 .widget_second h3:before {
     content: '';
     position: absolute;
-    background: url() no-repeat;
+    background: url(../assets/img/event-dt/review_ic.png) no-repeat;
     width: 30px;
     height: 30px;
     left: -2px;
@@ -227,7 +227,7 @@ span.main_price {
 .widget_third h3:before {
     content: '';
     position: absolute;
-    background: url() no-repeat;
+    background: url(../assets/img/event-dt/review_ic.png) no-repeat;
     width: 30px;
     height: 30px;
     left: -2px;
@@ -286,7 +286,7 @@ span.user_name {
     padding: 6px;
     font-weight: 600;
     font-size: 17px;
-    background-image: url();
+    background-image: url(../assets/img/event-dt/camera_ic.png);
     background-repeat: no-repeat;
     background-position: 5px 8px;
 }
@@ -336,7 +336,7 @@ span.user_name {
     left: -15px;
 }
 .widget_heading.widget_head_blue h3:after {
-    background: url() no-repeat;
+    background: url(../assets/img/event-dt/widget_border_blue.png) no-repeat;
     right: -30px;
     width: 50px;
     height: 41px;
@@ -346,7 +346,7 @@ span.user_name {
     z-index: -2;
 }
 .widget_heading.widget_head_red h3:after {
-    background: url() no-repeat;
+    background: url(../assets/img/event-dt/widget_border.png) no-repeat;
     right: -30px;
     width: 50px;
     height: 41px;
@@ -392,7 +392,7 @@ span.user_name {
 }
 .rel_details a:before {
     content: '';
-    background: url() no-repeat;
+    background: url(../assets/img/event-dt/loc_ic.png) no-repeat;
     width: 18px;
     height: 22px;
     position: absolute;
